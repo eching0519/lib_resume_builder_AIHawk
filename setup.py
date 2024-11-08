@@ -4,7 +4,7 @@ setup(
     name='lib_resume_builder_AIHawk',
     version='0.1',
     description='A package to generate AI-assisted resumes using GPT models',
-    long_description=open('README.md').read(),
+    long_description=open('README.md', encoding="utf-8").read(),
     long_description_content_type='text/markdown',
     author='feder-cr',
     author_email='federico.elia.majo@gmail.com',
